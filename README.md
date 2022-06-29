@@ -1,7 +1,7 @@
 # Node-Edge-Graph-Attention-Networks
 Adversarial Learning Based Node-Edge Graph Attention Networks for Autism Spectrum Disorder Identification
 ## Cite
-···
+```
 @article{chen2022adversarial,
   title={Adversarial Learning Based Node-Edge Graph Attention Networks for Autism Spectrum Disorder Identification},
   author={Chen, Yuzhong and Yan, Jiadong and Jiang, Mingxin and Zhang, Tuo and Zhao, Zhongbo and Zhao, Weihua and Zheng, Jian and Yao, Dezhong and Zhang, Rong and Kendrick, Keith M and others},
@@ -9,6 +9,6 @@ Adversarial Learning Based Node-Edge Graph Attention Networks for Autism Spectru
   year={2022},
   publisher={IEEE}
 }
-···
+```
 ## Contact us
 For more details please contact chenyuzhong211@gmail.com
